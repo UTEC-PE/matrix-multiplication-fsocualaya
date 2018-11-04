@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pyxel/Desktop/UTEC/4to_semestre/AED/semana11/matrix-multiplication-fsocualaya/main.cpp
+iostream
+-
+vector
+-
+thread
+-
+
